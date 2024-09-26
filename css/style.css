@@ -10,20 +10,20 @@ header {
     padding: 10px;
 }
 
-.nav-items{
+.nav-items {
     display: flex;
     justify-content: space-around;
     text-decoration: none;
     list-style-type: none;
 }
 
-.nav-items  a {
+.nav-items a {
     text-decoration: none;
     color: white;
     list-style: none;
 }
 
-.back{
+.back {
     background-color: rgb(4, 4, 78);
     height: 100%;
 }
@@ -53,7 +53,7 @@ main {
     border-radius: 5px;
 }
 
-#movie-results{
+#movie-results {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
@@ -67,7 +67,7 @@ main {
     width: 200px;
     color: blanchedalmond;
 
-    
+
 }
 
 .movie-card img {
@@ -110,33 +110,39 @@ main {
     object-fit: cover;
 }
 
-.nav{
+.nav {
     display: flex;
     justify-content: space-around;
     text-decoration: none;
     list-style-type: none;
 }
-.nav a{
+
+.nav a {
     text-decoration: none;
     color: white;
     list-style: none;
 }
 
-.background{
+.background {
     background-color: blue;
     color: white;
-    padding: 10px;
+    padding: 20px;
 }
-.hero{
+
+.hero {
     background-color: rgb(8, 8, 70);
     height: 200%;
 }
 
-.wee{
+.wee {
     color: bisque;
-    margin-left: 250px;
-
+    margin-left: 280px;
+    margin-top: 0;
+    font-family: 'Alegreya SC';
+    font-size: 22px;
 }
+
+
 .movie-list {
     display: flex;
     flex-wrap: wrap;
@@ -156,13 +162,27 @@ main {
     height: 200px;
     object-fit: cover;
 }
-#feat{
+
+#feat {
     color: antiquewhite;
     margin-top: 100px;
-    margin-left: 600px;
+    margin-left: 550px;
+    font-family: 'Alegreya SC';
+    font-size: 35px;
 }
 
-#write{
-    font-family: 'Delicious Handrawn'; 
+#write {
+    font-family: 'Delicious Handrawn';
     font-size: 50px;
+}
+
+.wee-let {
+
+    color: bisque;
+     margin-left: 180px;
+     /* margin-top: 200px;  */
+    margin-top: 0;
+    font-family: 'Alegreya SC';
+    font-size: 22px;
+
 }
