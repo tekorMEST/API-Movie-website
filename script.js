@@ -22,3 +22,8 @@ searchBtn.addEventListener('click', () => {
         })
         .catch(error => console.error(error));
 });
+
+
+
+
+

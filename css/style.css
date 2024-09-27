@@ -115,6 +115,8 @@ main {
     justify-content: space-around;
     text-decoration: none;
     list-style-type: none;
+    font-family: 'Fugaz One';
+    font-size: 22px;
 }
 
 .nav a {
@@ -186,3 +188,12 @@ main {
     font-size: 22px;
 
 }
+#foot{
+    color: yellow;
+    margin-left: 70%;
+    
+}
+.button{
+    color: yellow;
+}
+
