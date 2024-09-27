@@ -200,3 +200,28 @@ main {
 #feet{
     margin-left: 70%;
 }
+
+#lastest{
+    margin-top: 50px;
+    font-family: 'Delicious Handrawn';
+    font-size: 50px;
+    margin-left: 400px;
+}
+
+#writeup{
+font-weight: bold;
+
+}
+#fot{
+    color: red;
+    margin-left: 70%;
+}
+.space{
+    margin-top: 50px;
+}
+
+.allow{
+    margin-top: 100px;
+    display: flex;
+    
+}
